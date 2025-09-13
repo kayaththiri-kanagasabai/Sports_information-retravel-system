@@ -1,0 +1,8 @@
+README.md
+setup.py
+Information_Retrieval_Chatbot.egg-info/PKG-INFO
+Information_Retrieval_Chatbot.egg-info/SOURCES.txt
+Information_Retrieval_Chatbot.egg-info/dependency_links.txt
+Information_Retrieval_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
